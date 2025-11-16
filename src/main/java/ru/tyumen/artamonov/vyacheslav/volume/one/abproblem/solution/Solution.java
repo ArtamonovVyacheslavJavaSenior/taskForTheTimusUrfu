@@ -1,4 +1,4 @@
-package ru.tyumen.artamonov.vyacheslav.volume.one.abproblem;
+package ru.tyumen.artamonov.vyacheslav.volume.one.abproblem.solution;
 
 import java.util.Scanner;
 

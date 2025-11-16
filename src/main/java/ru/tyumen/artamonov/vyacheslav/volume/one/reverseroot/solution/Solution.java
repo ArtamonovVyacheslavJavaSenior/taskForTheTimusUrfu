@@ -1,4 +1,4 @@
-package ru.tyumen.artamonov.vyacheslav.volume.one.reverseroot;
+package ru.tyumen.artamonov.vyacheslav.volume.one.reverseroot.solution;
 
 import java.util.ArrayList;
 import java.util.Scanner;
